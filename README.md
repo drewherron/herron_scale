@@ -5,9 +5,7 @@ The Herron (H) temperature scale is a practical temperature system with two intu
 - **0 H** = Freezing point of water (32°F / 0°C)
 - **100 H** = Human body temperature (98.7°F / 37°C)
 
-This creates a scale where most everyday temperatures fall within a convenient 0-100 range.
-
-Very simple and straightforward, and it wasn't exactly a lot of work to create. Although, as far as I can tell no one has ever proposed this system before (at least, I can't find it anywhere). So, this document is my proposal. I do think it's superior for everyday use, and if nothing else it's an interesting alternative.
+Very simple and straightforward, and it wasn't exactly a lot of work to create. Although, as far as I can tell no one has ever proposed this system before (at least, I can't find it anywhere). So, this document is my proposal. I do think it's superior for everyday use, and if nothing else it's an interesting alternative. 
 
 I'm calling it the Herron scale only because every major temperature system seems to have taken the surname of its inventor. If you have a better name idea, I'm open to anything that would increase the likelihood of adoption.
 
@@ -32,7 +30,7 @@ I'm surprised you're reading this.
 - **1°H = 0.370°C** (or 10/27°C)
 - **1°C = 2.7°H** (or 27/10°H)
 
-The scale is linear so ratios are constant across the entire scale - a 1-degree change in Herron always equals a 0.66-degree change in Fahrenheit or a 0.37-degree change in Celsius, regardless of the starting temperature.
+The scale is linear so ratios are constant across the entire range - a 10-degree change in Herron always equals a 6.67-degree change in Fahrenheit or a 3.7-degree change in Celsius, regardless of the starting temperature.
 
 ## Common Temperature Examples
 
