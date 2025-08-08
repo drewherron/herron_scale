@@ -87,6 +87,28 @@ I'm surprised you're reading this.
 | 78 | 69 |
 | 80 | 72 |
 
+With each degree being more precise, you could probably think about ambient/weather temperature in increments of 5:
+
+| °H  | °F   |
+|-----|------|
+| 20  | 45.3 |
+| 25  | 48.7 |
+| 30  | 52.0 |
+| 35  | 55.3 |
+| 40  | 58.7 |
+| 45  | 62.0 |
+| 50  | 65.3 |
+| 55  | 68.7 |
+| 60  | 72.0 |
+| 65  | 75.3 |
+| 70  | 78.7 |
+| 75  | 82.0 |
+| 80  | 85.3 |
+| 85  | 88.7 |
+| 90  | 92.0 |
+| 95  | 95.3 |
+| 100 | 98.7 |
+
 ## Conversion Table
 
 | °H  | °F    | °C    |
