@@ -69,6 +69,22 @@ I'm surprised you're reading this.
 | Average normal human body temperature | 100 H    | 310.15 K | 37.0 °C    | 98.6 °F    |
 | Boiling point of water                | 270 H    | 373.13 K | 100 °C     | 212 °F     |
 
+## Common indoor temperature range
+
+| °F | °H |
+|----|----|
+| 60 | 42 |
+| 62 | 45 |
+| 64 | 48 |
+| 66 | 51 |
+| 68 | 54 |
+| 70 | 57 |
+| 72 | 60 |
+| 74 | 63 |
+| 76 | 66 |
+| 78 | 69 |
+| 80 | 72 |
+
 ## Conversion Table
 
 | °H  | °F    | °C    |
