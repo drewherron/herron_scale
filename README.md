@@ -7,13 +7,14 @@ The Herron (H) temperature scale is a practical temperature system with two intu
 
 Very simple and straightforward, and it wasn't exactly a lot of work to create. However, as far as I can tell no one has ever proposed this system before (at least, I can't find it anywhere). So then, this document is my proposal. I do think it's superior for everyday use, and if nothing else it's an interesting alternative. 
 
-![Scale translation numberlines](herron_scale_visualization_dark.png)
+![Scale translation numberlines](numberlines_dark_1.png)
+![Scale translation numberlines](numberlines_dark_2.png)
 
 I'm calling this the Herron scale only because every major temperature system seems to have taken the surname of its inventor. If you have a better name idea, I'm open to anything that would increase the likelihood of adoption.
 
 PS: Nothing will increase the likelihood of adoption.
 
-I'm surprised you're reading this.
+I'm surprised you're even reading this.
 
 ## Conversion Formulas
 
@@ -87,7 +88,7 @@ I'm surprised you're reading this.
 | 78 | 69 |
 | 80 | 72 |
 
-With each degree being more precise, you could probably think about ambient/weather temperature in increments of 5:
+With each degree being more precise, you might think about ambient/weather temperature in 5°H increments:
 
 | °H  | °F   | °C   |
 |-----|------|------|
