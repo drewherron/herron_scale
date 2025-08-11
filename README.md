@@ -144,3 +144,13 @@ With each degree being more precise, you might think about ambient/weather tempe
 | 130 | 118.7 | 48.1  |
 | 140 | 125.3 | 51.9  |
 | 150 | 132   | 55.6  |
+
+## NYC Average Monthly Temperatures
+
+Ranges:
+
+- **°F:** 26 to 85
+- **°C:** -3 to 29
+- **°H:** -8 to 80
+
+![Temp charts for NYC weather](nyc_temps.png)
