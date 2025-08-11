@@ -3,7 +3,7 @@
 The Herron (H) temperature scale is a practical temperature system with two intuitive reference points:
 
 - **0 H** = Freezing point of water (32°F / 0°C)
-- **100 H** = Human body temperature (98.7°F / 37°C)
+- **100 H** = Human body temperature (98.67°F / 37.04°C)
 
 Very simple and straightforward, and it wasn't exactly a lot of work to create. However, as far as I can tell no one has ever proposed this system before (at least, I can't find it anywhere). So then, this document is my proposal. I do think it's superior for everyday use, and if nothing else it's an interesting alternative. 
 
@@ -19,12 +19,21 @@ I'm surprised you're even reading this.
 ## Conversion Formulas
 
 ### Fahrenheit ⟷ Herron
-- **F to H:** H = 3/2 × (F - 32)
-- **H to F:** F = (2/3 × H) + 32
+- **F to H:** $H = \frac{3}{2} × (F - 32)$
+- **H to F:** $F = (\frac{2}{3} × H) + 32$
 
 ### Celsius ⟷ Herron
-- **C to H:** H = 27/10 × C
-- **H to C:** C = 10/27 × H
+- **C to H:** $H = \frac{27}{10} × C$
+- **H to C:** $C = \frac{10}{27} × H$
+
+Rather than basing 100°H on some objective human body temperature, the official definition of the Herron scale is the extremely simple and memorable formula $2.7C$.
+
+The common values given for body temperature are 37°C or 98.6°F.
+
+- **37.00°C = 98.60°F = 90.90°H** 
+- **100°H = 37.04°C = 98.67°F**
+
+I think the simplicity of both sets of conversion equations is worth using a slightly different definition for the standard human body temperature. A 0.067°F difference is negligible compared to normal body temperature variation throughout the day (±1-2°F).
 
 ## Degree Intervals
 
